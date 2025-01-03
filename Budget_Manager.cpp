@@ -15,5 +15,6 @@ vector<Transaction> transactions;
 
 // Function to add a transaction
 void addTransaction() {
+	string description;
 }
 
