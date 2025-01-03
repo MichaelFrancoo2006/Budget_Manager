@@ -9,3 +9,7 @@ struct Transaction {
     string description;
     double amount;
 };
+
+// Collection of transactions
+vector<Transaction> transactions;
+
