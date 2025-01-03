@@ -13,3 +13,7 @@ struct Transaction {
 // Collection of transactions
 vector<Transaction> transactions;
 
+// Function to add a transaction
+void addTransaction() {
+}
+
